@@ -2,7 +2,7 @@
 
 ## Original by chriscook8 from esp8266.com I just modified to use ESP8266WebServer library for easy to handle the http request.
 
-This code not yet complete.
+This is sample code not yet complete.
 
 ## Todo
 
