@@ -6,9 +6,9 @@ This code not yet complete.
 
 ## Todo
 
-[] when Wifi connected need to close the softAP.
+- [ ] when Wifi connected need to close the softAP.
 
-[] maybe some dns with ESP8266mDNS.
+- [ ] maybe some dns with ESP8266mDNS.
 
 ## Use
 
