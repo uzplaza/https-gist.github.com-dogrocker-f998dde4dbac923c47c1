@@ -20,4 +20,4 @@ This code not yet complete.
 
 `Kanin Peanviriyakulkit @DogRocker`
 
-If you can take todo all help are welcome :)
+If you can take todo, all help are welcome :)
